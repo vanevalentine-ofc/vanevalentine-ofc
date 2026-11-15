@@ -6,11 +6,7 @@
 
 <br>
 
-<img src="https://shields.io" />
-<img src="https://shields.io" />
-<img src="https://shields.io" />
-<img src="https://shields.io" />
-
+[![Secret Track](https://shields.io)](https://music.youtube.com/watch?v=e7U1YZNgwnY&si=dxhQfEYtRplBt9pn&drli=1)
 
 </div>
 
