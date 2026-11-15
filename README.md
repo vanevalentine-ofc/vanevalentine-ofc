@@ -6,10 +6,11 @@
 
 <br>
 
-![Music](https://shields.io)
-![Writing](https://shields.io)
-![Gaming](https://shields.io)
-![Coding](https://shields.io)
+<img src="https://shields.io" />
+<img src="https://shields.io" />
+<img src="https://shields.io" />
+<img src="https://shields.io" />
+
 
 </div>
 
